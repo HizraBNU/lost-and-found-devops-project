@@ -3,8 +3,8 @@
 ## Lost And Found Mobile App
 
 ## Team Members
-1. Your Name – Authentication & Users
-2. Partner Name – Lost/Found Items & Search
+1. Hizra Shahid(f2022-042)  Authentication & User
+2. Abdullah Hussain Awan(f2022-) – Lost/Found Items & Search
 
 ## Project Title
 Lost & Found Management System (DevOps Semester Project)
