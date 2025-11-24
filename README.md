@@ -2,6 +2,17 @@
 
 ## Lost And Found Mobile App
 
+## Team Members
+1. Your Name – Authentication & Users
+2. Partner Name – Lost/Found Items & Search
+
+## Project Title
+Lost & Found Management System (DevOps Semester Project)
+
+## Repo Forked From
+(Original repo link)
+
+
 <img src='https://github.com/upes-open/Git-WorkShop/assets/101355193/b9315c8e-5aaa-438e-ab5a-48b25571dc90' width=100>
 
 ![Static Badge](https://img.shields.io/badge/Discord-202020?logo=discord&logoColor=%235865F2&link=http%3A%2F%2Fdiscord.gg%2F2rnWsvkX) ![Static Badge](https://img.shields.io/badge/Twitter-202020?logo=twitter&logoColor=%231DA1F2&link=https%3A%2F%2Ftwitter.com%2FUpesOpen) ![Static Badge](https://img.shields.io/badge/Instagram-202020?logo=instagram&logoColor=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fupesopen_%2F)
