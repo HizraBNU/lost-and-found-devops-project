@@ -2,6 +2,7 @@
 
 ## Lost And Found Mobile App
 
+
 ## Team Members
 1. Hizra Shahid(f2022-042)  Authentication & User
 2. Abdullah Hussain Awan(f2022-) – Lost/Found Items & Search
@@ -65,6 +66,8 @@ git checkout -b <GitHub_usename>
 * Make the changes in your local repo and push the changes.
 * Create a pull request to the main branch.
 * Wait for the PR to be reviewed and merged.
+
+Update from dev branch
 
 
 ## Happy Contributing !
